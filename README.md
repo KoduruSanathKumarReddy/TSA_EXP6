@@ -1,6 +1,7 @@
-### Date: 
+
 ### Name: Koduru Sanath Kumar Reddy 
 ### Register no:212221240024
+### Date: 
 # Ex.No: 6               HOLT WINTERS METHOD
 
 
